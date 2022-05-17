@@ -1,3 +1,3 @@
-def call(raheem-libs){
+def call(raheem){
   echo "Hi  ${raheem}, Good morning!!!"
 }
